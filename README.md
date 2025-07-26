@@ -20,5 +20,6 @@ This is a Retrieval-Augmented Generation (RAG) chatbot built with **Streamlit**,
 
 ---
 
-## 🏗️ Project Structure
+If link doesn't work click below-
+https://rag-loan-chatbot-v2vogp6egcfhjoaceaktop.streamlit.app/
 
