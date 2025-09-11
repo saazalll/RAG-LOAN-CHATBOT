@@ -9,9 +9,13 @@ This is a Retrieval-Augmented Generation (RAG) chatbot built with **Streamlit**,
 👉 [Try it here](https://rag-loan-chatbot-v2vogp6egcfhjoaceaktop.streamlit.app/)
 
 Example Questions:
+
 What features impact loan approval the most?
+
 How many applicants were married?
+
 Do self-employed people get loans approved?
+
 What is the average loan amount?
 
 ---
